@@ -6,12 +6,12 @@ title: Lauren Ofman
 superuser: true
 
 # Role/position/tagline
-role: Student at The George Washington University
+role: Senior at The George Washington University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: GWU
+  url: https://www.gwu.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
