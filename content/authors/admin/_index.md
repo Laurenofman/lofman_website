@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: B.A.in Journalism and Mass Communications
-    institution: GWU
+    institution: The George Washington University
     year: 2022
   - course: M.S. in Public Relations and Corporate Communications
     institution: New York University
@@ -42,16 +42,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/laurenofman
   label: Follow me on Twitter
   display:
     header: true
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/laurenofman
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/lauren-ofman-451b88178/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
