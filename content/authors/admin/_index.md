@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:your-laurenofman@gwu.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/laurenofman
