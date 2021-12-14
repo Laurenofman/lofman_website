@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name:Editorial
+  - name: Editorial
     tag: Editorial
-  - name: Publication
-    tag: Publication 
+  - name: Other
+    tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
