@@ -25,7 +25,7 @@ experience:
   - title: Public Relations Intern
     company: The Brand Guild
     company_url: ''
-    company_logo: org-gc
+    company_logo: 
     location: Washington D.C.
     date_start: '2021-05-01'
     date_end: '2021-08-25'
@@ -34,7 +34,7 @@ experience:
   - title: Style Advisor 
     company: Aritzia
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: Washington D.C.
     date_start: '2020-08-01'
     date_end: ''
