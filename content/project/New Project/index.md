@@ -2,7 +2,6 @@
 title: The GW Local
 summary: The student life blog I created in 2019
 tags:
-- Demo
 - Publication
 date: "2016-04-27T00:00:00Z"
 
